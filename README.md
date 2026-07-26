@@ -88,17 +88,17 @@ handwritten_digit_recognition/
 
 ## ▶️ How to Run the Project
 
- ###1. Clone the repository
+ 1. Clone the repository
 
 git clone https://github.com/Anshika31Kumari/handwritten_digit_recognition.git
 
-###2. Navigate to project directory
+2. Navigate to project directory
 cd handwritten_digit_recognition
 
-###3. Install required libraries
+3. Install required libraries
 pip install -r requirements.txt
 
-###4. Run the Streamlit application
+4. Run the Streamlit application
 python -m streamlit run app.py
 The Streamlit application will start running, and it will open automatically in your default web browser.
 
