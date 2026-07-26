@@ -111,10 +111,15 @@ Predicted handwritten digit
 Confidence percentage
 
 🔮 Future Improvements
+
 Add real-time digit drawing canvas
+
 Improve model performance using data augmentation
+
 Deploy the application on cloud platforms
+
 Add model evaluation metrics
+
 Add prediction history feature
 
 👩‍💻 Author
