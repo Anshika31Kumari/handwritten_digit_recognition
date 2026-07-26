@@ -46,7 +46,9 @@ The CNN model learns patterns from handwritten digit images and predicts the cor
 ## ⚙️ How It Works
 
 1. User selects an input method:
+   
    - Enter image name from the project folder (example: `6.png`)
+     
    - Upload a handwritten digit image
 
 2. The input image is converted into grayscale.
@@ -83,7 +85,7 @@ handwritten_digit_recognition/
 ├── 8.png
 └── 9.png
 
-
+---
 
 
 ## ▶️ How to Run the Project
@@ -93,22 +95,32 @@ handwritten_digit_recognition/
 git clone https://github.com/Anshika31Kumari/handwritten_digit_recognition.git
 
 2. Navigate to project directory
-cd handwritten_digit_recognition
+ 
+   cd handwritten_digit_recognition
 
 3. Install required libraries
-pip install -r requirements.txt
+   
+   pip install -r requirements.txt
 
 4. Run the Streamlit application
-python -m streamlit run app.py
+   
+   python -m streamlit run app.py
+
 The Streamlit application will start running, and it will open automatically in your default web browser.
+
+---
 
 📸 Application Output
 
 The application provides:
 
 Input image preview
+
 Predicted handwritten digit
+
 Confidence percentage
+
+---
 
 🔮 Future Improvements
 
